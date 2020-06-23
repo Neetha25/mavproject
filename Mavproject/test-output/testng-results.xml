@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18254" started-at="2020-06-16T09:14:44 IST" finished-at="2020-06-16T09:15:02 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18254" started-at="2020-06-16T09:14:44 IST" finished-at="2020-06-16T09:15:02 IST">
+      <class name="mavetest.MavDataProvider">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavetest.MavDataProvider@4bbfb90a]" name="beforeTest" is-config="true" duration-ms="5246" started-at="2020-06-16T09:14:44 IST" finished-at="2020-06-16T09:14:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:mavetest.MavDataProvider@4bbfb90a]" name="beforeMethod" is-config="true" duration-ms="2536" started-at="2020-06-16T09:14:49 IST" finished-at="2020-06-16T09:14:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:mavetest.MavDataProvider@4bbfb90a]" name="f" duration-ms="6826" started-at="2020-06-16T09:14:52 IST" data-provider="dp" finished-at="2020-06-16T09:14:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tutorial]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tutorial]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:mavetest.MavDataProvider@4bbfb90a]" name="beforeMethod" is-config="true" duration-ms="776" started-at="2020-06-16T09:14:59 IST" finished-at="2020-06-16T09:14:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:mavetest.MavDataProvider@4bbfb90a]" name="f" duration-ms="2616" started-at="2020-06-16T09:14:59 IST" data-provider="dp" finished-at="2020-06-16T09:15:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavetest.MavDataProvider@4bbfb90a]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-06-16T09:15:02 IST" finished-at="2020-06-16T09:15:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- mavetest.MavDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
